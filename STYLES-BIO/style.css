@@ -1,0 +1,28 @@
+footer {
+    background-color: cadetblue;
+    margin: 10px -8px 0px -8px;
+    padding: 0px 0px;
+    
+}
+html {
+    background: no-repeat url("https://i.pinimg.com/originals/e4/ec/67/e4ec6792564975cfda17f64e36220e6c.jpg");
+    loading="lazy"
+}
+.styles   {
+    background-color: #b5783c;
+   margin: 10px -8px 0px -8px; 
+}
+nav {
+    background-color: rgb(8, 104, 104);
+margin: 10px -8px 0px -8px;
+}
+header {
+    background-color: blueviolet;
+    display: block;
+    font-size: 24px;
+    margin: -34px -8px 30px -8px;
+    padding: 1px 264px;
+}
+h2 {
+    color: rgb(187, 255, 0);
+}
